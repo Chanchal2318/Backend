@@ -1,0 +1,11 @@
+Notes :-
+
+1. index file:- Entry level file
+Folders
+
+1. DB:- It contains an actual code which connects database.
+2. Models :- It contains all schemas (structural) file.
+3. Controllers :- It contains all functions.
+4. Routes :- It contains all navigation path.
+5. Middleware:- 
+6. Utils:- 
